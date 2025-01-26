@@ -1,0 +1,4 @@
+phidata==2.7.9
+duckduckgo_search==7.2.1
+openai==1.60.1
+sqlalchemy==2.0.37
